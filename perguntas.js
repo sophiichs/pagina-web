@@ -1,7 +1,7 @@
 criarCartao(
-    "Categoria",    
-    "Pergunta",  
-    "Resposta" 
+    "Q0",    
+    "O que é um motor V8?",  
+    "Um motor V8 é um motor de combustão interna que possui oito cilindros dispostos em duas bancadas, formando um V quando vistos de frente. Essa configuração permite uma combinação de potência, torque e equilíbrio, tornando-o popular em carros de alto desempenho e veículos que exigem muita força. " 
 );
 
 criarCartao(
